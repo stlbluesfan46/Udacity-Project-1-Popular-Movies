@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="grid_description">Movie Poster</string>
+
+    <!-- Menu label to fetch updated movie info from the server -->
+    <string name="action_refresh" translatable="false">Refresh</string>
+
+    <!-- Default labels for individual views in the Movie Detail View -->
+    <string name="movie_poster_desc">Poster goes here</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="release_date">Release Date</string>
+    <string name="user_rating_title">User Rating</string>
+    <string name="synopsis">Movie synopsis</string>
+    <string name="synopsis_header">Plot Synopsis</string>
+    <!-- String format for the user rating -->
+    <string name="user_rating">User Rating: %s/10</string>
+
+    <!-- Menu titles for the sort menu -->
+    <string name="sort_menu">Sort</string>
+    <string name="popular">Popular</string>
+    <string name="top_rated">Top Rated</string>
+
+    <!-- SharedPreference strings to set the sort order -->
+    <string name="sort_mode_key">sort mode</string>
+    <string name="sort_mode_default">popular</string>
+    <string name="sort_top_rated">top_rated</string>
+    <string name="sort_popular">popular</string>
+
+
+</resources>
